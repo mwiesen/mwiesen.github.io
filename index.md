@@ -3,7 +3,7 @@ layout: home
 title: Herzlich Willkommen
 permalink: /
 image:
-  feature: wood-texture-1600x800.jpg
+  feature: 1506441647.jpg
 ---
 
 Quereinsteiger....aus Leidenschaft zur Fotografie.
