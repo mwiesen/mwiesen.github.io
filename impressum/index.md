@@ -19,6 +19,6 @@ Hirschbergstr. 6
 
 90607 Rückersdorf
 
-![asdf](himbeere.png)
+![asdf](/images/himbeere.png)
 
 www.mwiesen.com
