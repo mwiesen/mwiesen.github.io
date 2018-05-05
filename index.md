@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Herzlich Willkommen
+title: "Herzlich Willkommen"
 permalink: /
 image:
   feature: 1506441647.jpg
