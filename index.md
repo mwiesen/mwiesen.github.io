@@ -1,11 +1,14 @@
 ---
-layout: archive
+layout: home
+title: Herzlich Willkommen
 permalink: /
-title: "Latest Posts"
+image:
+  feature: wood-texture-1600x800.jpg
 ---
 
-<div class="tiles">
-{% for post in site.posts %}
-	{% include post-grid.html %}
-{% endfor %}
-</div><!-- /.tiles -->
+Quereinsteiger....aus Leidenschaft zur Fotografie.
+ 
+Mein Bestreben ist es, möglichst natürliche Fotos mit all Ihren Ecken
+und Kanten zu machen, das Leben so zu zeigen wie es eben ist.
+ 
+Matthias Wiesen
