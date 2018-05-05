@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Datenschutz"
+title: "Datenschutzerklärung"
 date: 2014-06-02T09:44:20-04:00
 modified: 2014-08-27T14:56:44-04:00
 excerpt: 
@@ -11,10 +11,6 @@ image:
 share: false
 ads: false
 ---
-
-
-## Datenschutzerklärung
-
 
 Alle Rechte unterliegen Matthias Wiesen Fotofrafie.
 Das Kopieren oder die Verwendung ist nur mit meiner ausdrücklichen Genehmigung gestattet!
