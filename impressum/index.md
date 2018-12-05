@@ -3,7 +3,7 @@ layout: article
 title: "Impressum"
 date: 2014-06-02T09:44:20-04:00
 modified: 2014-08-27T14:56:44-04:00
-excerpt: 
+excerpt:
 image:
   feature:
   teaser:
@@ -21,4 +21,8 @@ Hirschbergstr. 6
 
 ![asdf](/images/himbeere.png)
 
+matthias.wiesen at gmx.de
+
 www.mwiesen.com
+
+Ident Nr. DE59360822740
