@@ -18,7 +18,7 @@ Matthias Wiesen Fotografie
 Hirschbergstr. 6  
 90607 Rückersdorf
 
-Tel.: ![asdf](/images/himbeere.png)  
+![asdf](/images/himbeere.png)  
 Email: matthias.wiesen at gmx.de  
 Web: www.mwiesen.com
 
